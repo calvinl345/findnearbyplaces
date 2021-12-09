@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/findnearbyplaces/static/js/main.e2872adb.chunk.js",
+    "main.js.map": "/findnearbyplaces/static/js/main.e2872adb.chunk.js.map",
+    "runtime-main.js": "/findnearbyplaces/static/js/runtime-main.f2042f36.js",
+    "runtime-main.js.map": "/findnearbyplaces/static/js/runtime-main.f2042f36.js.map",
+    "static/js/2.3db86fd2.chunk.js": "/findnearbyplaces/static/js/2.3db86fd2.chunk.js",
+    "static/js/2.3db86fd2.chunk.js.map": "/findnearbyplaces/static/js/2.3db86fd2.chunk.js.map",
+    "index.html": "/findnearbyplaces/index.html",
+    "static/js/2.3db86fd2.chunk.js.LICENSE.txt": "/findnearbyplaces/static/js/2.3db86fd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2042f36.js",
+    "static/js/2.3db86fd2.chunk.js",
+    "static/js/main.e2872adb.chunk.js"
+  ]
+}
